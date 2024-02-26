@@ -1,5 +1,5 @@
 // import './App.css';
-import OrderBook from './components/OrderBook';
+import OrderBook from './pages/OrderBook';
 
 function App() {
   return (

@@ -1,8 +1,8 @@
 import React from "react";
 import "./OrderBook.css";
-import Table from "./Table";
+import Table from "../components/Table";
 import { useState } from "react";
-import Popup from "./Popup";
+import Popup from "../components/Popup";
 export default function OrderBook(){
 
     const [isHidden, setIsHidden] = useState(true);
